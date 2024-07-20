@@ -1,0 +1,30 @@
+% Schmutztitel wird einseitig gesetzt, um Layout
+% nicht zu zerschreddern
+% Wer den Schmutztitel nicht haben will, l\"{o}scht diesen Teil einfach
+\KOMAoptions{twoside=false}
+% Beginn des Schmutztitels als Teil der Titlepage-Umgebung
+\begin{titlepage}%Schmutztitel; Grafiken mit Tikz erstellt; Signet eingebunden
+\begin{tikzpicture}[remember picture,overlay,shift={(current page.south)}]
+\fill[jluhellblau](-9,10) rectangle(0.5\paperwidth,0.8585\paperheight);
+\node at (7,25.5) {\includegraphics[width = 0.375\textwidth]{logo1.jpg}};
+\fill[jlublau!100](-11,5) rectangle(6.5,12);
+\node [text width=14cm] at (-2.0,9)
+{
+\sffamily
+\color{white}
+\begin{center}
+\Large
+\textbf{Bachelorarbeit}\\[1.1ex]
+\LARGE
+\textbf{Experimentelle Untersuchungen zum Beamen während des Fliegens mit Warp-Geschwindigkeit}\\[1.1ex]
+\Large
+\textbf{Experimental studies on beaming while flying at warp speed}\\[1.1ex]
+\textbf{Martina Musterfrau}\\[1.2ex]
+\Large
+\textbf{Sommersemester 2021}
+\end{center}
+};
+\node [text width=4cm] at (9.75,2){\LARGE \sffamily \textbf{I}\color{jlublau}{\textbf{P}}\color{black}{\textbf{I}}};
+\end{tikzpicture}
+\end{titlepage}
+% Ende des Schmutztitels

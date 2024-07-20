@@ -1,0 +1,22 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{7}{chapter*.2}%
+\contentsline {chapter}{\nonumberline Tabellenverzeichnis}{9}{chapter*.3}%
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{Abstract}{13}{chapter*.5}%
+\babel@toc {ngerman}{}\relax 
+\contentsline {chapter}{Zusammenfassung}{15}{chapter*.6}%
+\contentsline {chapter}{\numberline {1}Einleitung}{17}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Theoretische Grundlagen}{19}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Ideales Gasgesetz}{19}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Schr\"{o}dingergleichung}{22}{section.2.2}%
+\contentsline {chapter}{\numberline {3}Experimentelle Methoden}{23}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Elektronenspektrometer}{24}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Vakuumanlage}{25}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Diskussion}{27}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Diskussionsteil A}{27}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Diskussionsteil B}{28}{section.4.2}%
+\contentsline {chapter}{\numberline {5}Ausblick}{31}{chapter.5}%
+\contentsline {chapter}{\nonumberline Literatur}{33}{chapter*.7}%
+\contentsline {chapter}{\numberline {A}Ergänzende Informationen 1}{35}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Ergänzende Informationen 2}{37}{appendix.B}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

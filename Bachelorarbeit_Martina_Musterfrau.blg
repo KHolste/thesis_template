@@ -1,0 +1,15 @@
+[0] Config.pm:306> INFO - This is Biber 2.18
+[0] Config.pm:309> INFO - Logfile is 'Bachelorarbeit_Martina_Musterfrau.blg'
+[246] biber-MSWIN64:340> INFO - === 
+[362] Biber.pm:418> INFO - Reading 'Bachelorarbeit_Martina_Musterfrau.bcf'
+[485] Biber.pm:978> INFO - Found 6 citekeys in bib section 0
+[519] Biber.pm:4401> INFO - Processing section 0
+[554] Biber.pm:4592> INFO - Looking for bibtex file 'mybibFile.bib' for section 0
+[630] bibtex.pm:1713> INFO - LaTeX decoding ...
+[653] bibtex.pm:1518> INFO - Found BibTeX data source 'mybibFile.bib'
+[791] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[791] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[791] Biber.pm:4221> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'de-DE'
+[791] Biber.pm:4227> INFO - No sort tailoring available for locale 'de-DE'
+[854] bbl.pm:654> INFO - Writing 'Bachelorarbeit_Martina_Musterfrau.bbl' with encoding 'UTF-8'
+[860] bbl.pm:757> INFO - Output to Bachelorarbeit_Martina_Musterfrau.bbl
